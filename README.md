@@ -16,3 +16,7 @@ Executando o Prometheus:
 
 Exibindo a métrica do Counter de requisições:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/f33fc2e8-85f7-4f96-abed-e744bb579770)
+
+## Grafana
+Exibindo a métrica do Counter de requisições:
+![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/a1e7a8e0-20d2-47d4-98c6-0844e5674384)
