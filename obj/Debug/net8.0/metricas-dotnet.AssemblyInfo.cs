@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metricas-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+409b504f6e2fee370c055e96d0171e6d60bd373b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236b7a3271efa1ec048eb917f2a3e2ae3559e2b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("metricas-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metricas-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
