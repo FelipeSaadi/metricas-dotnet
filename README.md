@@ -20,3 +20,10 @@ Exibindo a métrica do Counter de requisições:
 ## Grafana
 Exibindo a métrica do Counter de requisições:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/a1e7a8e0-20d2-47d4-98c6-0844e5674384)
+
+## Jaeger
+Exibindo o rastreamento de atividades:
+![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/1081533f-585e-48e9-bba0-adaf004372d8)
+
+Visualizando uma atividade:
+![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/fd607013-4777-4b24-a3a9-38fcb3f52cc3)
