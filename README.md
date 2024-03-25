@@ -1,5 +1,19 @@
 # Ponderada de Métricas 22-03
 
+## Tecnologias
+Foram implementadas ferramentas responsáveis pelo monitoramento da aplicação (OpenTelemetry, Prometheus, Grafana e Jaeger), assim como a construção de uma aplicação para ser monitorada (.NET). Foi configurada a métrica de Counter de Requisições para os 2 endpoints construídos.
+
+OpenTelemetry: ferramenta adicionada na aplicação .NET, responsável por coletar dados e emití-los para as demais ferramentas de monitoramento, utilizando o protocolo de ligação OTLP para envio dos dados para o Jaeger e do Prometheus Exporter para envio para o Prometheus, como é possível ver na imagem abaixo.
+
+![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/02bbd7c5-2b0c-4ec7-b5b3-fb3deddc28ec)
+
+
+Prometheus: é um sistema de banco de dados de coleta, agregação e série temporal de métricas, sendo capaz de coletar dados periódicamente para cada serviço devidamente configurado, podendo analisá-las como séries temporais, assim como visualizá-las por meio de gráficos. 
+
+Grafana: ferramenta que permite a criação de dashboards com diferentes fontes de dados, na implementação atual foi utilizado os dados providos do Prometheus.
+
+Jaeger: ferramenta utilizada para rastrear atividades de sistemas distribuídos, permitindo monitorar dados, requisições e a comunicação entre múltiplas aplicações por meio de uma interface de visualização. 
+
 ## Visualizando as Métricas
 Executando a aplicação:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/968a26f1-f729-475a-8980-a07d2d70820b)
