@@ -28,5 +28,5 @@ Exibindo o rastreamento de atividades:
 Visualizando a atividade de Greeting:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/fd607013-4777-4b24-a3a9-38fcb3f52cc3)
 
-Visualizando a atividade de NestedGreeting
+Visualizando a atividade de NestedGreeting:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/8082b40c-5546-4819-b635-53aad67d53a5)
