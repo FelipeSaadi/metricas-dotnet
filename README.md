@@ -17,7 +17,7 @@ Jaeger: ferramenta utilizada para rastrear atividades de sistemas distribuídos,
 ## Aprendizado
 Por meio dessa atividade fui capaz de aprender a configurar uma ferramenta de telemetria de métricas para monitorar uma aplicação em .NET; configurar o Prometheus para coleta e análise de métricas customizadas com exibição de gráficos temporais; configurar o Grafana para receber os dados providos do Prometheus e criar um dashboard customizado para acompanhamento das métricas; e por fim, implementar o Jaeger para monitorar a correlação de atividades da aplicação.
 
-Fazendo todo o processo de configuração foi possível entender melhor como criar um monitoramente efetivo de uma aplicação. Sendo possível também identificar a possibilidade da criação de dashboards para diferentes Stakeholders, que será muito útil para meus projetos no futuro. 
+Fazendo todo o processo de configuração foi possível entender melhor como criar um monitoramento de uma aplicação, que utiliza diferentes endpoints. Sendo possível também identificar a possibilidade da criação de dashboards para diferentes Stakeholders, que será muito útil para meus projetos no futuro. 
 
 ## Visualizando a Métrica
 Executando a aplicação:
