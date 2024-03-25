@@ -14,7 +14,7 @@ Grafana: ferramenta que permite a criação de dashboards com diferentes fontes 
 
 Jaeger: ferramenta utilizada para rastrear atividades de sistemas distribuídos, permitindo monitorar dados, requisições e a comunicação entre múltiplas aplicações por meio de uma interface de visualização. 
 
-## Visualizando as Métricas
+## Visualizando a Métrica
 Executando a aplicação:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/968a26f1-f729-475a-8980-a07d2d70820b)
 
