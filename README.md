@@ -14,6 +14,11 @@ Grafana: ferramenta que permite a criação de dashboards com diferentes fontes 
 
 Jaeger: ferramenta utilizada para rastrear atividades de sistemas distribuídos, permitindo monitorar dados, requisições e a comunicação entre múltiplas aplicações por meio de uma interface de visualização. 
 
+## Aprendizado
+Por meio dessa atividade fui capaz de aprender a configurar uma ferramenta de telemetria de métricas para monitorar uma aplicação em .NET; configurar o Prometheus para coleta e análise de métricas customizadas com exibição de gráficos temporais; configurar o Grafana para receber os dados providos do Prometheus e criar um dashboard customizado para acompanhamento das métricas; e por fim, implementar o Jaeger para monitorar a correlação de atividades da aplicação.
+
+Fazendo todo o processo de configuração foi possível entender melhor como criar um monitoramente efetivo de uma aplicação. Sendo possível também identificar a possibilidade da criação de dashboards para diferentes Stakeholders, que será muito útil para meus projetos no futuro. 
+
 ## Visualizando a Métrica
 Executando a aplicação:
 ![image](https://github.com/FelipeSaadi/metricas-dotnet/assets/54749257/968a26f1-f729-475a-8980-a07d2d70820b)
